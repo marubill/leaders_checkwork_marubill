@@ -9,6 +9,15 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var number: String 
+    @IBOutlet var label: UILabel!
+    
+    
+    
+  
+    
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -21,5 +30,8 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func
+    
+    
 }
 
